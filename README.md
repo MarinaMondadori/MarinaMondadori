@@ -14,17 +14,20 @@ Meus principais temas de estudo são: Python, R, SQL, NoSQL, Ecossistema Hadoop,
 </div>
 <div style="display: inline_block"><br>
   
+ ##
+ Linguagens que eu domino:
+ 
   <img align="center" alt="Marina-Python" height="30" width="70" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Marina-R" height="30" width="70" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img align="center" alt="Marina-MySQL" height="30" width="70" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Marina-PostgreSQL" height="30" width="80" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
  
 </div>
   
   ##
  
 <div> 
-  
+ Contato e Redes Sociais:
+ 
+ 
   <a href="https://instagram.com/marinamondadori" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mmgessinger@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marina-gessinger-1a474a2b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -33,4 +36,6 @@ Meus principais temas de estudo são: Python, R, SQL, NoSQL, Ecossistema Hadoop,
 
  
 </div>
+ 
+ ![Snekaer animation](https://github.com/MarinaMondadori/MarinaMondadori/blob/output/github-user-contribution.svg)
 
