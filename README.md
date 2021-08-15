@@ -17,8 +17,8 @@ Meus principais temas de estudo são: Python, R, SQL, NoSQL, Ecossistema Hadoop,
  ##
  Linguagens que mais utilizo:
  
-  <img align="center" alt="Marina-Python" height="30" width="70" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Marina-R" height="30" width="70" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img align="center" alt="Marina-Python" height="30" width="80" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Marina-R" height="30" width="60" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
  
 </div>
   
