@@ -1,16 +1,34 @@
-### Hi there 👋
+## Olá, eu sou a Marina Mondadori! 👩
 
-<!--
-**MarinaMondadori/MarinaMondadori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma profissional em entrada na área de Ciência de Dados.
 
-Here are some ideas to get you started:
+Tenho me especializado através da formação Cientista de Dados da Data Science Academy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meus principais temas de estudo são: Python, R, SQL, NoSQL, Ecossistema Hadoop, Machine Learning, entre outros =)
+
+ <div>
+  <a href="https://github.com/MarinaMondadori">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarinaMondadori&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaMondadori&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Marina-Python" height="30" width="70" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Marina-R" height="30" width="70" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img align="center" alt="Marina-MySQL" height="30" width="70" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Marina-PostgreSQL" height="30" width="80" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+ 
+</div>
+  
+  ##
+ 
+<div> 
+  
+  <a href="https://instagram.com/marinamondadori" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mmgessinger@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://https://www.linkedin.com/in/marina-gessinger-1a474a2b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+
+ 
+</div>
+
