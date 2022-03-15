@@ -1,10 +1,8 @@
 ## Olá, eu sou a Marina Mondadori! 👩
 
-Sou uma profissional em entrada na área de Ciência de Dados.
+Sou Cientista de Dados na XP Inc.
 
-Tenho me especializado através da formação Cientista de Dados da Data Science Academy.
-
-Meus principais temas de estudo são: Python, R, SQL, NoSQL, Ecossistema Hadoop, Machine Learning, entre outros =)
+Meus principais temas de estudo são: Python, R, SQL, NoSQL, Ecossistema Hadoop, Machine Learning, Deep Learning e Programação Funcional.
 
  <div>
   <a href="https://github.com/MarinaMondadori">
