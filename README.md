@@ -4,6 +4,8 @@ Data & SAP Solutions Professional | Support Team Coach @ SAP
 
 Focused on bridging the gap between Business Intelligence and Scalable Data Architectures. My repositories here reflect my deep-dive into Data Science, ML models, and ETL fundamentals. Currently, my technical focus has shifted towards SAP Data Architecture, IBP, and Cloud Integration (Azure/Business Data Cloud).
 
+In 2026, much more to come!
+
  <div>
   <a href="https://github.com/MarinaMondadori">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarinaMondadori&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
