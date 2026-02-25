@@ -1,8 +1,8 @@
-## Olá, eu sou a Marina Mondadori! 👩
+## Hello, World! I'm Marina Gessinger👩
 
-Sou Cientista de Dados na XP Inc.
+Data & SAP Solutions Professional | Support Team Coach @ SAP
 
-Meus principais temas de estudo são: Python, R, SQL, NoSQL, Ecossistema Hadoop, Machine Learning, Deep Learning e Programação Funcional.
+Focused on bridging the gap between Business Intelligence and Scalable Data Architectures. My repositories here reflect my deep-dive into Data Science, ML models, and ETL fundamentals. Currently, my technical focus has shifted towards SAP Data Architecture, IBP, and Cloud Integration (Azure/Business Data Cloud).
 
  <div>
   <a href="https://github.com/MarinaMondadori">
@@ -13,7 +13,7 @@ Meus principais temas de estudo são: Python, R, SQL, NoSQL, Ecossistema Hadoop,
 <div style="display: inline_block"><br>
   
  ##
- Linguagens que mais utilizo:
+ My Main Languages:
  
   <img align="center" alt="Marina-Python" height="30" width="80" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Marina-R" height="30" width="60" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
@@ -23,7 +23,7 @@ Meus principais temas de estudo são: Python, R, SQL, NoSQL, Ecossistema Hadoop,
   ##
  
 <div> 
- Contato e Redes Sociais:
+ Contact & Social Media:
  
  
   <a href="https://instagram.com/marinamondadori" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
